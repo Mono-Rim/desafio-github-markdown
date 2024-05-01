@@ -14,3 +14,5 @@
 4. Formatação com Markdown: 
 
     * Utilizar linguagem para formatar informações sobre o desafio.
+
+Para simular um segundo colaborador utilizei uma conta secundária. Clonar o repositório em uma pasta diferente como uma segunda pessoa me fez entender melhor o git pull, que está sendo muito utilizado para atualizar o repositório local com informações alteradas do remoto.
