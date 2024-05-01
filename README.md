@@ -1,11 +1,11 @@
-Desafio Github Markdown
+#Desafio Github Markdown
 
-Objetivos:
+##Objetivos:
 
-Criar conta no Github
-Criar um repositório e adionar o arquivo README,
+1. [X] Criar conta no Github
+2. [X] Criar um repositório e adionar o arquivo README,
 
-Colaboração 
+3. [X]Colaboração 
 
 Adicionar um colaborador,
 Clonar repositório na máquina local.
