@@ -1,17 +1,16 @@
-#Desafio Github Markdown
+# Desafio Github Markdown
 
-##Objetivos:
+## Objetivos:
 
 1. [X] Criar conta no Github
 2. [X] Criar um repositório e adionar o arquivo README,
 
-3. [X]Colaboração 
+3. [X] Colaboração 
 
-Adicionar um colaborador,
-Clonar repositório na máquina local.
+    * Adicionar um colaborador,
+    * Clonar repositório na máquina local.
+    * Realizar commits, abrir issues e pull requests.
 
-Realizar commits, abrir issues e pull requests.
+4. Formatação com Markdown: 
 
-Formatação com Markdown: 
-
-Utilizar linguagem para formatar informações sobre o desafio.
+    * Utilizar linguagem para formatar informações sobre o desafio.
